@@ -1,0 +1,15 @@
+[submodule "log4j"]
+	path = log4j
+	url = https://github.com/WeisonWei/log4j.git
+[submodule "logback"]
+	path = logback
+	url = https://github.com/WeisonWei/logback.git
+[submodule "log4j2"]
+	path = log4j2
+	url = https://github.com/WeisonWei/log4j2.git
+[submodule "log4j-slf4j"]
+	path = log4j-slf4j
+	url = https://github.com/WeisonWei/log4j-slf4j.git
+[submodule "log4j2-slf4j"]
+	path = log4j2-slf4j
+	url = https://github.com/WeisonWei/log4j2-slf4j.git
